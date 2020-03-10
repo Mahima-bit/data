@@ -1,0 +1,1 @@
+IntervalDT[steps == max(steps), .(max_interval = interval)]
