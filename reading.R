@@ -1,0 +1,1 @@
+activityDT <- data.table::fread(input = "data/activity.csv")
